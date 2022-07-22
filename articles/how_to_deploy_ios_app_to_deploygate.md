@@ -32,7 +32,7 @@ Xcode の `Preferences` から `Accounts` タブを開き、[Apple Developer Pro
    ![Keychain Access Request](/images/keychain_access_request.png)
 1. `証明書情報`の画面が開くので以下のように入力して、Certificate Signing Request(証明書署名要求)ファイルをローカルに保存する
    - `メールアドレス`: [Apple Developer Programに登録](https://developer.apple.com/jp/support/app-account/)した Apple ID
-   - `通称`: 証明書に利用したFQDN (例: `example.com`)
+   - `通称`: 証明書に利用したいFQDN (例: `example.com`)
    - `CAのメールアドレス`: 空欄
    - `要求の処理`: `ディスクの保存`
    ![Certificate Information](/images/certificate_information.png)
