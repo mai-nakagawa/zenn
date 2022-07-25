@@ -7,7 +7,7 @@ published: true # 公開設定（falseにすると下書き）
 ---
 # これは何？
 
-`dg` コマンド (DeployGat CLI) で iOS アプリをデプロイしようとしたら、以下のようなエラーが出てデプロイできない。
+`dg` コマンド (DeployGate CLI) で iOS アプリをデプロイしようとしたら、以下のようなエラーが出てデプロイできない。
 ```
 no applicable iphone distribution or apple distribute certificate found on your mac
 ```
