@@ -8,6 +8,8 @@ publication_name: "singularity"
 ---
 # これは何？
 
+Python版のFirebase FunctionsでRegionを指定する方法を記載している。
+
 PythonのFirebase Functionsはbetaということもあり、Regionを指定する方法が2023年5月25日時点では公式ドキュメントに記載されていない。Pythonのfirebase_functionsのソースコードを見て調べる必要があった。
 
 # 方法
